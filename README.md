@@ -1,6 +1,6 @@
-# VendingMachine
+# Lab1 : VendingMachine
 
-개별연구1
+
 
 
 
